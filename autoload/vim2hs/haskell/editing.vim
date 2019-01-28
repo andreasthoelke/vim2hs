@@ -38,7 +38,7 @@ function! vim2hs#haskell#editing#formatting() " {{{
   setlocal formatoptions+=croql1
   setlocal formatoptions-=t
   silent! setlocal formatoptions+=j
-  setlocal textwidth=75
+  " setlocal textwidth=75
 endfunction " }}}
 
 
