@@ -1,6 +1,6 @@
-call vim2hs#haskell#editing#includes()
-call vim2hs#haskell#editing#keywords()
-call vim2hs#haskell#editing#formatting()
+" call vim2hs#haskell#editing#includes()
+" call vim2hs#haskell#editing#keywords()
+" call vim2hs#haskell#editing#formatting()
 
 " if get(g:, 'haskell_fold', 1) == 1
     " call vim2hs#haskell#editing#folding()

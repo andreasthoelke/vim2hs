@@ -1,4 +1,4 @@
-command Type :silent call GetType()
+command! Type :silent call GetType()
 
 function! GetType()
   execute "t."
